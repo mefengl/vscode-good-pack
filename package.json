@@ -1,0 +1,25 @@
+{
+  "name": "vscode-good-pack",
+  "displayName": "Good Pack",
+  "description": "Personally selected good plugins~",
+  "icon": "res/logo.png",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "repository": "https://github.com/mefengl/vscode-good-pack",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscodevim.vim",
+    "waderyan.gitblame",
+    "alefragnani.Bookmarks",
+    "github.vscode-github-actions",
+    "WakaTime.vscode-wakatime"
+  ]
+}
